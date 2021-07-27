@@ -69,6 +69,11 @@
                     width: fit-content;
                     height: fit-content;
 
+                        .box-img{
+                            width: 70%;
+                            background-color: transparent;
+                        }
+
                         .box-content {
                             // position:  fixed;
                             display: flex;
