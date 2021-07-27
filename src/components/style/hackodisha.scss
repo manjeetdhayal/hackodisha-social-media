@@ -1,115 +1,98 @@
-*{
-    margin: 0;
-    padding: 0;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background-color: #1E1F20;
-    color: white;
-    text-align: center;
-    box-sizing: border-box;
-    text-decoration: none;
+* {
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: #1e1f20;
+  color: white;
+  text-align: center;
+  box-sizing: border-box;
+  text-decoration: none;
 
-    .Hackodisha-container {
-       
-        font-size: 3rem;
-        margin-top: 5vh;
-        margin-bottom: 10px;
-    }
-    
-    .hack{
-        color: #FFFFFF; 
-    }
-    .odisha{
-        color: #FF0000;
+  .Hackodisha-container {
+    font-size: 3rem;
+    margin-top: 5vh;
+    margin-bottom: 10px;
+  }
 
-    }
+  .hack {
+    color: #ffffff;
+  }
+  .odisha {
+    color: #ff0000;
+  }
 
-    // for date component 
+  // for date component
 
-    .date-component{
-        font-size: 2rem;
-       
-    }
+  .date-component {
+    font-size: 2rem;
+  }
 
-    .paragraph{
-       // text-align: justify;
-        padding: 0 10px;
-        margin: 5vh 10vw;
-        
-    }
+  .paragraph {
+    // text-align: justify;
+    padding: 0 10px;
+    margin: 5vh 10vw;
+  }
 
-    // for card component 
+  // for card component
 
+  // social media links
 
-    // social media links 
+  .social {
+    display: flex;
+    justify-content: center;
 
-    .social{
+    .social-links-container {
+      // width: 80vw;
+      display: flex;
+      //margin: 10vh 20vw;
+      flex-wrap: wrap;
+      text-decoration: none;
+      justify-content: center;
+
+      .box-img-container {
+        background-color: #18191a;
         display: flex;
-        justify-content:  center;
-    
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        align-content: center;
+        width: fit-content;
+        height: fit-content;
 
-            .social-links-container{
-               // width: 80vw;
-                display: flex;
-                //margin: 10vh 20vw;
-                flex-wrap: wrap;
-                text-decoration: none;
-                justify-content: center;
-
-                .box-img-container{
-
-                    background-color: #18191A;
-                    display: flex;
-                    flex-direction: column;
-                    align-items: center;
-                    justify-content: center;
-                    align-content: center;
-                    width: fit-content;
-                    height: fit-content;
-
-                        .box-img{
-                            width: 70%;
-                            background-color: transparent;
-                        }
-
-                        .box-content {
-                            // position:  fixed;
-                            display: flex;
-                            justify-content: center;
-                            align-items: center;
-                            background-color: #18191a;
-                            width: max-content;
-                            height: max-content;
-                            text-decoration: none;
-                            margin-top: 10px;
-                    
-            
-    
-                     }
-
-                 }
-
-
-            }
-
+        .box-img {
+          width: 70%;
+          background-color: transparent;
         }
-    
 
-    // .social {
-    //     
-    // }
+        .box-content {
+          // position:  fixed;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          background-color: #18191a;
+          width: max-content;
+          height: max-content;
+          text-decoration: none;
+          margin-top: 10px;
+        }
+      }
+    }
+  }
 
-    // .social-links-container a {
-    //     margin: 10px ;
-    // }
+  // .social {
+  //
+  // }
 
-    // @media screen and (max-width: 1368 px) {
-    //     .social-links-container{
-    //         grid-template-columns: repeat(3, 1fr);
-    //     }
-    // }
+  // .social-links-container a {
+  //     margin: 10px ;
+  // }
 
- 
+  // @media screen and (max-width: 1368 px) {
+  //     .social-links-container{
+  //         grid-template-columns: repeat(3, 1fr);
+  //     }
+  // }
 }
