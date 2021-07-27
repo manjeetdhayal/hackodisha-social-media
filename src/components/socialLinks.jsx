@@ -15,7 +15,7 @@ function SocialLinks() {
                 src={require('./assets/devfolio.png').default}
                 alt="Hackodisha Devfolio Registeration"
               ></img>
-              <span className="box-content"> Apply for Hackodisha</span>
+              <span className="box-content">Hackodisha Registration</span>
             </div>
           </Card>
         </a>
@@ -41,7 +41,7 @@ function SocialLinks() {
                 src={require('./assets/discord.png').default}
                 alt="Hackodisha Discord"
               ></img>
-              <span className="box-content"> Hackodisha Discord Server</span>{' '}
+              <span className="box-content"> Hackodisha Discord</span>{' '}
             </div>
           </Card>
         </a>

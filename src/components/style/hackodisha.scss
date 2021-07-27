@@ -12,7 +12,8 @@
   text-decoration: none;
 
   .Hackodisha-container {
-    font-size: 3rem;
+    font-size: 5rem;
+    font-weight: 800;
     margin-top: 5vh;
     margin-bottom: 10px;
   }
@@ -34,6 +35,7 @@
     // text-align: justify;
     padding: 0 10px;
     margin: 5vh 10vw;
+    font-size: 2rem;
   }
 
   // for card component
@@ -53,7 +55,7 @@
       justify-content: center;
 
       .box-img-container {
-        background-color: #18191a;
+        background-color: black;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -84,11 +86,13 @@
           display: flex;
           justify-content: center;
           align-items: center;
-          background-color: #18191a;
+          background-color: black;
           width: max-content;
           height: max-content;
           text-decoration: none;
-          margin-top: 10px;
+          font-size: 1.5rem;
+          font-weight: 500;
+          margin-top: 30px;
         }
       }
     }
