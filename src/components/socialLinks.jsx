@@ -11,7 +11,7 @@ function SocialLinks() {
 
             <a href="https://devfolio.co/hackodisha/dashboard"> <Card>
             <div className="box-img-container">
-               <img className="box-img" src={require("./assets/devfolio.png").default} alt="Hackodisha Devfolio Registeration"></img>
+               <img  className="box-img-apply-with-devfolio"src={require("./assets/devfolio.png").default} alt="Hackodisha Devfolio Registeration"></img>
                <span className="box-content"> Apply for Hackodisha</span>
             </div>
             </Card></a>
@@ -20,7 +20,7 @@ function SocialLinks() {
 
             <a href="https://jarvis.owasp.co.in/"><Card>
             <div className="box-img-container">
-            <img className="box-img" src={require("./assets/logo-owasp.png").default} alt="Hackodisha JARVIS Registeration"></img>
+            <img  className="box-img-jarvis" src={require("./assets/logo-owasp.png").default} alt="Hackodisha JARVIS Registeration"></img>
                <span className="box-content"> Register for J.A.R.V.I.S</span>
             </div>
             </Card> </a>
