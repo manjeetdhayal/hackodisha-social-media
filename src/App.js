@@ -1,29 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
-import './components/style/hackodisha.scss'; 
-import Hackodisha from './components/hackodisha'; 
-import Date from "./components/date";
+import './components/style/hackodisha.scss';
+import Hackodisha from './components/hackodisha';
+import Date from './components/date';
 import Paragraph from './components/paragraph';
 import SocialLinks from './components/socialLinks';
 
 function App() {
   return (
-  
-  <main>
-    {/*  Hackodisha  */}
-  <Hackodisha/>
+    <main>
+      {/*  Hackodisha  */}
+      <Hackodisha />
 
+      {/* Date  */}
+      <Date />
 
-  {/* Date  */}
-  <Date/>
+      {/*  para */}
+      <Paragraph />
 
-{/*  para */}
-<Paragraph/>
-
-{/*  cards  */}
-<SocialLinks/>
-
-</main>
+      {/*  cards  */}
+      <SocialLinks />
+    </main>
   );
 }
 
