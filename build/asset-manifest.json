@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hackodisha-social-links/static/css/main.820777b5.chunk.css",
+    "main.js": "/hackodisha-social-links/static/js/main.10ebff60.chunk.js",
+    "main.js.map": "/hackodisha-social-links/static/js/main.10ebff60.chunk.js.map",
+    "runtime-main.js": "/hackodisha-social-links/static/js/runtime-main.8bb3b302.js",
+    "runtime-main.js.map": "/hackodisha-social-links/static/js/runtime-main.8bb3b302.js.map",
+    "static/js/2.b21d9aa4.chunk.js": "/hackodisha-social-links/static/js/2.b21d9aa4.chunk.js",
+    "static/js/2.b21d9aa4.chunk.js.map": "/hackodisha-social-links/static/js/2.b21d9aa4.chunk.js.map",
+    "static/js/3.df99e740.chunk.js": "/hackodisha-social-links/static/js/3.df99e740.chunk.js",
+    "static/js/3.df99e740.chunk.js.map": "/hackodisha-social-links/static/js/3.df99e740.chunk.js.map",
+    "index.html": "/hackodisha-social-links/index.html",
+    "static/css/main.820777b5.chunk.css.map": "/hackodisha-social-links/static/css/main.820777b5.chunk.css.map",
+    "static/js/2.b21d9aa4.chunk.js.LICENSE.txt": "/hackodisha-social-links/static/js/2.b21d9aa4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hackodisha-social-links/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bb3b302.js",
+    "static/js/2.b21d9aa4.chunk.js",
+    "static/css/main.820777b5.chunk.css",
+    "static/js/main.10ebff60.chunk.js"
+  ]
+}
