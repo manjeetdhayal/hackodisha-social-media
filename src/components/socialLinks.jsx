@@ -21,7 +21,7 @@ function SocialLinks() {
             <a href="https://jarvis.owasp.co.in/"><Card>
             <div className="box-img-container">
                <img src="./assets/logo-owsap.png" alt=""></img>
-               <span className="box-content"> Register for J.A.R.VI.S</span>
+               <span className="box-content"> Register for J.A.R.V.I.S</span>
             </div>
             </Card> </a>
 
@@ -37,7 +37,7 @@ function SocialLinks() {
             <a href="https://hackodisha.xyz/"> <Card>
             <div className="box-img-container">
                <img src="./assets/hackodisha-logo.png" alt=""></img>
-               <span className="box-content"> Hackodihsa website</span>
+               <span className="box-content"> Hackodisha website</span>
                </div>
             </Card> </a>
 
@@ -54,7 +54,7 @@ function SocialLinks() {
             <a href="https://in.linkedin.com/company/hack-odisha" ><Card>
             <div className="box-img-container">
                <img src="./assets/linkedin.png" alt=""></img>
-               <span className="box-content">LinedIn</span>
+               <span className="box-content">LinkedIn</span>
                </div>
 
             </Card></a>
