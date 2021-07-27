@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/hackodisha-social-links/static/css/main.820777b5.chunk.css",
-    "main.js": "/hackodisha-social-links/static/js/main.10ebff60.chunk.js",
-    "main.js.map": "/hackodisha-social-links/static/js/main.10ebff60.chunk.js.map",
-    "runtime-main.js": "/hackodisha-social-links/static/js/runtime-main.8bb3b302.js",
-    "runtime-main.js.map": "/hackodisha-social-links/static/js/runtime-main.8bb3b302.js.map",
+    "main.css": "/hackodisha-social-links/static/css/main.acb250ad.chunk.css",
+    "main.js": "/hackodisha-social-links/static/js/main.0d156d27.chunk.js",
+    "main.js.map": "/hackodisha-social-links/static/js/main.0d156d27.chunk.js.map",
+    "runtime-main.js": "/hackodisha-social-links/static/js/runtime-main.8e6311b5.js",
+    "runtime-main.js.map": "/hackodisha-social-links/static/js/runtime-main.8e6311b5.js.map",
     "static/js/2.b21d9aa4.chunk.js": "/hackodisha-social-links/static/js/2.b21d9aa4.chunk.js",
     "static/js/2.b21d9aa4.chunk.js.map": "/hackodisha-social-links/static/js/2.b21d9aa4.chunk.js.map",
-    "static/js/3.df99e740.chunk.js": "/hackodisha-social-links/static/js/3.df99e740.chunk.js",
-    "static/js/3.df99e740.chunk.js.map": "/hackodisha-social-links/static/js/3.df99e740.chunk.js.map",
+    "static/js/3.184a9ccd.chunk.js": "/hackodisha-social-links/static/js/3.184a9ccd.chunk.js",
+    "static/js/3.184a9ccd.chunk.js.map": "/hackodisha-social-links/static/js/3.184a9ccd.chunk.js.map",
     "index.html": "/hackodisha-social-links/index.html",
-    "static/css/main.820777b5.chunk.css.map": "/hackodisha-social-links/static/css/main.820777b5.chunk.css.map",
+    "static/css/main.acb250ad.chunk.css.map": "/hackodisha-social-links/static/css/main.acb250ad.chunk.css.map",
     "static/js/2.b21d9aa4.chunk.js.LICENSE.txt": "/hackodisha-social-links/static/js/2.b21d9aa4.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/hackodisha-social-links/static/media/logo.6ce24c58.svg"
+    "static/media/devfolio.png": "/hackodisha-social-links/static/media/devfolio.027b7fc3.png",
+    "static/media/discord.png": "/hackodisha-social-links/static/media/discord.d25ec015.png",
+    "static/media/facebook-logo.png": "/hackodisha-social-links/static/media/facebook-logo.5c2a3fec.png",
+    "static/media/hackodisha-logo.png": "/hackodisha-social-links/static/media/hackodisha-logo.f9bff38e.png",
+    "static/media/instagram.png": "/hackodisha-social-links/static/media/instagram.a7ae1774.png",
+    "static/media/logo-owasp.png": "/hackodisha-social-links/static/media/logo-owasp.9d944bac.png",
+    "static/media/twitter.png": "/hackodisha-social-links/static/media/twitter.f1f6d5ca.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8bb3b302.js",
+    "static/js/runtime-main.8e6311b5.js",
     "static/js/2.b21d9aa4.chunk.js",
-    "static/css/main.820777b5.chunk.css",
-    "static/js/main.10ebff60.chunk.js"
+    "static/css/main.acb250ad.chunk.css",
+    "static/js/main.0d156d27.chunk.js"
   ]
 }
