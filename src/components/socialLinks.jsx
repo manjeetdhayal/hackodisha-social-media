@@ -11,7 +11,7 @@ function SocialLinks() {
           <Card>
             <div className="box-img-container">
               <img
-                className="box-img"
+                className="box-img-apply-with-devfolio"
                 src={require('./assets/devfolio.png').default}
                 alt="Hackodisha Devfolio Registeration"
               ></img>
@@ -24,7 +24,7 @@ function SocialLinks() {
           <Card>
             <div className="box-img-container">
               <img
-                className="box-img"
+                className="box-img-jarvis"
                 src={require('./assets/logo-owasp.png').default}
                 alt="Hackodisha JARVIS Registeration"
               ></img>
